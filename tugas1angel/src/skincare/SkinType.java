@@ -6,7 +6,7 @@ public class SkinType {
     public String undertoneAngel;
     public String sensitivitasAngel;
     
-    // Method untuk menampilkan atribut
+    // Method 
     public void tampilkanInfo(String nama) {
         System.out.println("Skin Type Specification " + nama + ":");
         System.out.println("Jenis: " + kulitAngel);
